@@ -10,7 +10,7 @@ The dataset used in this project is the Credit Card Fraud Detection dataset from
 
 - **Data Preprocessing**: Normalization and standardization of transaction data.
 - **Model Training**: Implementation of **SVM** and **Decision Tree** classifiers.
-- **Performance Evaluation**: Measuring model performance using **ROC-AUC Score**.
+- **Performance Evaluation**: Measuring model performance using ROC-AUC Score.
 
 ## Implementation Details
 
@@ -33,10 +33,3 @@ The dataset used in this project is the Credit Card Fraud Detection dataset from
 
 ## Results
 The trained models are evaluated based on their ability to distinguish fraudulent transactions. The ROC-AUC score is used as the primary metric.
-
-
-### Contact
-
-- **LinkedIn**: [https://linkedin.com/in/himi02](https://linkedin.com/in/himi02)
-- **Email**: [[your\_email@example.com](mailto:your_email@example.com)]
-
